@@ -1,0 +1,128 @@
+Grade,Class,Subject,Book Name
+I,1,English,English Marigold
+I,1,Hindi,Hindi Rimjhim
+I,1,Maths,Mathematics Part 1
+I,1,Maths,Mathematics Part 2
+I,1,Science,Environmental Studies
+I,1,Social Science,Social Science
+II,2,English,English Marigold
+II,2,Hindi,Hindi Rimjhim
+II,2,Maths,Mathematics Part 1
+II,2,Maths,Mathematics Part 2
+II,2,Science,Environmental Studies
+II,2,Social Science,Social Science
+III,3,English,English Marigold
+III,3,Hindi,Hindi Rimjhim
+III,3,Maths,Mathematics Part 1
+III,3,Maths,Mathematics Part 2
+III,3,Science,Environmental Studies
+III,3,Social Science,Social Science
+IV,4,English,English Marigold
+IV,4,Hindi,Hindi Rimjhim
+IV,4,Maths,Mathematics Part 1
+IV,4,Maths,Mathematics Part 2
+IV,4,Science,Environmental Studies
+IV,4,Social Science,Social Science
+V,5,English,English Marigold
+V,5,Hindi,Hindi Rimjhim
+V,5,Mathematics,Mathematics Part 1
+V,5,Mathematics,Mathematics Part 2
+V,5,Science,Science Part 1: Physical Sciences
+V,5,Science,Science Part 2: Biological Sciences
+V,5,Social Science,Social Science Part 1: History
+V,5,Social Science,Social Science Part 2: Geography
+VI,6,English,English Marigold
+VI,6,Hindi,Hindi Rimjhim
+VI,6,Mathematics,Mathematics Part 1
+VI,6,Mathematics,Mathematics Part 2
+VI,6,Science,Science Part 1: Physical Sciences
+VI,6,Science,Science Part 2: Biological Sciences
+VI,6,Social Science,Social Science Part 1: History
+VI,6,Social Science,Social Science Part 2: Geography
+VII,7, English, English Honeydew
+VII,7, Hindi, Hindi Vasant Bhag - 2
+VII,7, Maths, Mathematics Part 1
+VII,7, Maths, Mathematics Part 2
+VII,7, Science, Science Part 1: Physical Sciences
+VII,7, Science, Science Part 2: Biological Sciences
+VII,7, Social Science, Social Science Part 1: History
+VII,7, Social Science, Social Science Part 2: Geography
+VIII,8,English,Honeydew
+VIII,8,Hindi,Vasant
+VIII,8,Maths,Mathematics
+VIII,8,Science,Science Part 1: Physical Sciences
+VIII,8,Science,Science Part 2: Biological Sciences
+VIII,8,Social Science,Social Science Part 1: History
+VIII,8,Social Science,Social Science Part 2: Geography
+IX,9, English, Moments
+IX,9, Hindi, Kshitij
+IX,9, Mathematics, Part 1
+IX,9, Mathematics, Part 2
+IX,9, Science, Part 1: Physics
+IX,9, Science, Part 2: Chemistry
+IX,9, Science, Part 3: Biology
+IX,9, Social Science, Part 1: History
+IX,9, Social Science, Part 2: Geography
+IX,9, Social Science, Part 3: Economics
+X,10,English,English Language and Literature Reader
+X,10,English,English Language and Literature Textbook
+X,10,Hindi,Kshitij
+X,10,Hindi,Sparsh
+X,10,Maths,Mathematics Part 1
+X,10,Maths,Mathematics Part 2
+X,10,Science,Science Part 1: Physical Sciences
+X,10,Science,Science Part 2: Biological Sciences
+X,10,Social Science,Social Science Part 1: History
+X,10,Social Science,Social Science Part 2: Geography
+X,10,Social Science,Social Science Part 3: Civics
+X,10,Social Science,Social Science Part 4: Economics
+XI,11, English, Flamingo
+XI,11, English, Vistas
+XI,11, Hindi, Aroh
+XI,11, Hindi, Antra
+XI,11, Maths, Mathematics Part 1
+XI,11, Maths, Mathematics Part 2
+XI,11, Physics, Physics Part 1
+XI,11, Physics, Physics Part 2
+XI,11, Chemistry, Chemistry Part 1
+XI,11, Chemistry, Chemistry Part 2
+XI,11, Biology, Biology Part 1
+XI,11, Biology, Biology Part 2
+XI,11, Economics, Introductory Micro Economics
+XI,11, Economics, Introductory Macro Economics
+XI,11, Business Studies, Business Studies Part 1
+XI,11, Business Studies, Business Studies Part 2
+XI,11, Accountancy, Part 1: Financial Accounting � I
+XI,11, Accountancy, Part 2: Financial Accounting � II
+XI,11, History, Themes in World History
+XI,11, Geography, Fundamentals of Physical Geography
+XI,11, Political Science, Indian Constitution at Work
+XI,11, Sociology, Introducing Sociology
+XI,11, Psychology, Introduction to Psychology
+XI,11, Computer Science, Computer Science with Python
+XI,11, Computer Science, Informatics Practices
+XII,12, English, Flamingo
+XII,12, English, Vistas
+XII,12, Hindi, Aroh
+XII,12, Hindi, Antra
+XII,12, Maths, Mathematics Part 1
+XII,12, Maths, Mathematics Part 2
+XII,12, Physics, Physics Part 1
+XII,12, Physics, Physics Part 2
+XII,12, Chemistry, Chemistry Part 1
+XII,12, Chemistry, Chemistry Part 2
+XII,12, Biology, Biology Part 1
+XII,12, Biology, Biology Part 2
+XII,12, Economics, Micro Economics
+XII,12, Economics, Macro Economics
+XII,12, Business Studies, Business Studies Part 1
+XII,12, Business Studies, Business Studies Part 2
+XII,12, Accountancy, Part 1: Financial Accounting � III
+XII,12, Accountancy, Part 2: Financial Accounting � IV
+XII,12, History, Themes in Indian History
+XII,12, Geography, India: Physical Environment
+XII,12, Political Science, Politics in India Since Independence
+XII,12, Sociology, Indian Society
+XII,12, Psychology, Psychology
+XII,12, Computer Science, Computer Science with Python
+XII,12, Computer Science, Informatics Practices
