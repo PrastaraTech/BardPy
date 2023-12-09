@@ -1,26 +1,26 @@
 Grade,Class,Subject,Book Name
 I,1,English,English Marigold
 I,1,Hindi,Hindi Rimjhim
-I,1,Maths,Mathematics Part 1
-I,1,Maths,Mathematics Part 2
+I,1,Mathematics,Mathematics Part 1
+I,1,Mathematics,Mathematics Part 2
 I,1,Science,Environmental Studies
 I,1,Social Science,Social Science
 II,2,English,English Marigold
 II,2,Hindi,Hindi Rimjhim
-II,2,Maths,Mathematics Part 1
-II,2,Maths,Mathematics Part 2
+II,2,Mathematics,Mathematics Part 1
+II,2,Mathematics,Mathematics Part 2
 II,2,Science,Environmental Studies
 II,2,Social Science,Social Science
 III,3,English,English Marigold
 III,3,Hindi,Hindi Rimjhim
-III,3,Maths,Mathematics Part 1
-III,3,Maths,Mathematics Part 2
+III,3,Mathematics,Mathematics Part 1
+III,3,Mathematics,Mathematics Part 2
 III,3,Science,Environmental Studies
 III,3,Social Science,Social Science
 IV,4,English,English Marigold
 IV,4,Hindi,Hindi Rimjhim
-IV,4,Maths,Mathematics Part 1
-IV,4,Maths,Mathematics Part 2
+IV,4,Mathematics,Mathematics Part 1
+IV,4,Mathematics,Mathematics Part 2
 IV,4,Science,Environmental Studies
 IV,4,Social Science,Social Science
 V,5,English,English Marigold
@@ -41,15 +41,15 @@ VI,6,Social Science,Social Science Part 1: History
 VI,6,Social Science,Social Science Part 2: Geography
 VII,7, English, English Honeydew
 VII,7, Hindi, Hindi Vasant Bhag - 2
-VII,7, Maths, Mathematics Part 1
-VII,7, Maths, Mathematics Part 2
+VII,7, Mathematics, Mathematics Part 1
+VII,7, Mathematics, Mathematics Part 2
 VII,7, Science, Science Part 1: Physical Sciences
 VII,7, Science, Science Part 2: Biological Sciences
 VII,7, Social Science, Social Science Part 1: History
 VII,7, Social Science, Social Science Part 2: Geography
 VIII,8,English,Honeydew
 VIII,8,Hindi,Vasant
-VIII,8,Maths,Mathematics
+VIII,8,Mathematics,Mathematics
 VIII,8,Science,Science Part 1: Physical Sciences
 VIII,8,Science,Science Part 2: Biological Sciences
 VIII,8,Social Science,Social Science Part 1: History
@@ -68,8 +68,8 @@ X,10,English,English Language and Literature Reader
 X,10,English,English Language and Literature Textbook
 X,10,Hindi,Kshitij
 X,10,Hindi,Sparsh
-X,10,Maths,Mathematics Part 1
-X,10,Maths,Mathematics Part 2
+X,10,Mathematics,Mathematics Part 1
+X,10,Mathematics,Mathematics Part 2
 X,10,Science,Science Part 1: Physical Sciences
 X,10,Science,Science Part 2: Biological Sciences
 X,10,Social Science,Social Science Part 1: History
@@ -80,8 +80,8 @@ XI,11, English, Flamingo
 XI,11, English, Vistas
 XI,11, Hindi, Aroh
 XI,11, Hindi, Antra
-XI,11, Maths, Mathematics Part 1
-XI,11, Maths, Mathematics Part 2
+XI,11, Mathematics, Mathematics Part 1
+XI,11, Mathematics, Mathematics Part 2
 XI,11, Physics, Physics Part 1
 XI,11, Physics, Physics Part 2
 XI,11, Chemistry, Chemistry Part 1
@@ -105,8 +105,8 @@ XII,12, English, Flamingo
 XII,12, English, Vistas
 XII,12, Hindi, Aroh
 XII,12, Hindi, Antra
-XII,12, Maths, Mathematics Part 1
-XII,12, Maths, Mathematics Part 2
+XII,12, Mathematics, Mathematics Part 1
+XII,12, Mathematics, Mathematics Part 2
 XII,12, Physics, Physics Part 1
 XII,12, Physics, Physics Part 2
 XII,12, Chemistry, Chemistry Part 1
